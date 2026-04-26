@@ -59,7 +59,11 @@ I'm always interested in collaborating on exciting projects or discussing new id
 - 📧 **Email**: dobariya.bhautik93@gmail.com
 - 💼 **LinkedIn**:
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhautik-dobariya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhautik-dobariya?trk=profile-badge">Bhautik Dobariya</a></div>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhautik-dobariya" data-version="v1" style="box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); border-radius: 12px; overflow: hidden; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(0, 0, 0, 0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(0, 0, 0, 0.1)';">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhautik-dobariya?trk=profile-badge">Bhautik Dobariya</a>
+  </div>
+</div>
 
 ## 💡 Fun Facts
 
