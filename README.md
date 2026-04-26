@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 I'm a software developer interested in new technologies, working on **Knative**, **Kubernetes**, **Argo CD**, **Java Microservices**, **AWS & GCP cloud**. I enjoy working on projects that solve real-world problems and learning new technologies along the way.
 
 - 💻 **Languages & Tools**: Java, Python, Node.js, Microservices, Spring, Kafka, MQTT
-- ���� **Current Focus**: Cloud-native development and microservices architecture
+- 🎯 **Current Focus**: Cloud-native development and microservices architecture
 - 🌱 **Learning**: Latest cloud technologies and DevOps practices
 - 📚 **Interests**: Kubernetes, Argo CD, Knative, and cloud infrastructure
 
@@ -57,7 +57,9 @@ I specialize in:
 I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out!
 
 - 📧 **Email**: dobariya.bhautik93@gmail.com
-- 💼 **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bhautik-dobariya)
+- 💼 **LinkedIn**:
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhautik-dobariya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhautik-dobariya?trk=profile-badge">Bhautik Dobariya</a></div>
 
 ## 💡 Fun Facts
 
