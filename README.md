@@ -4,17 +4,19 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 
 ## About Me
 
-I'm a software developer with a keen interest in [**add your areas of interest**]. I enjoy working on projects that solve real-world problems and learning new technologies along the way.
+I'm a software developer interested in new technologies, working on **Knative**, **Kubernetes**, **Argo CD**, **Java Microservices**, **AWS & GCP cloud**. I enjoy working on projects that solve real-world problems and learning new technologies along the way.
 
-- 💻 **Languages & Tools**: [Add your tech stack]
-- 🎯 **Current Focus**: [What you're currently working on]
-- 🌱 **Learning**: [What you're currently learning]
-- 📚 **Interests**: [Your technical interests]
+- 💻 **Languages & Tools**: Java, Python, Node.js, Microservices, Spring, Kafka, MQTT
+- 🎯 **Current Focus**: Cloud-native development and microservices architecture
+- 🌱 **Learning**: Latest cloud technologies and DevOps practices
+- 📚 **Interests**: Kubernetes, Argo CD, Knative, and cloud infrastructure
 
 ## 🚀 What I Do
 
 I specialize in:
-- Building full-stack applications
+- Building scalable Java microservices
+- Cloud-native development with Kubernetes and Knative
+- DevOps and CI/CD with Argo CD
 - Contributing to open-source projects
 - Solving complex problems with clean, efficient code
 - Collaborating with talented developers
@@ -26,19 +28,23 @@ I specialize in:
 ## 🛠️ Tech Stack
 
 **Languages:**
-- JavaScript/TypeScript
+- Java
 - Python
-- [Add more languages]
+- Node.js
 
 **Frameworks & Libraries:**
-- React
-- Node.js
-- [Add more frameworks]
+- Spring
+- Microservices
+- Kafka
+- MQTT
 
-**Tools & Platforms:**
-- Git & GitHub
+**Cloud & DevOps:**
+- Kubernetes
+- Knative
+- Argo CD
+- AWS
+- GCP
 - Docker
-- [Add more tools]
 
 ## 📂 Notable Projects
 
@@ -50,10 +56,9 @@ I specialize in:
 
 I'm always interested in collaborating on exciting projects or discussing new ideas. Feel free to reach out!
 
-- 📧 **Email**: [your-email@example.com]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter**: [@yourhandle]
-- 🌐 **Website**: [your-website.com]
+- 📧 **Email**: dobariya.bhautik93@gmail.com
+- 💼 **LinkedIn**: 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhautik-dobariya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhautik-dobariya?trk=profile-badge">Bhautik Dobariya</a></div>
 
 ## 💡 Fun Facts
 
